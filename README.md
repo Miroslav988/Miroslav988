@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 
-📞 +7-983-300-68-58  
+📞 +7-995-570-68-58
 📧 [mir.vbok@mail.ru](mailto:mir.vbok@mail.ru)  
 
 ---
