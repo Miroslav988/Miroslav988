@@ -9,7 +9,7 @@
 
 ## 🛠️ Ключевые навыки
 
-- **Технологии**: HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue, Redux, Webpack, Vite, Git
+- **Технологии**: HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue, Redux, Webpack, Vite, Git, Pinia
 - **Методологии**: Graceful Degradation, CDD, BEM
 - **Дополнительно**: Адаптивная верстка, оптимизация производительности, взаимодействие с backend API
 
