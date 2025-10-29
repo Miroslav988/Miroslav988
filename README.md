@@ -7,12 +7,6 @@
 
 ---
 
-## 🛠️ Ключевые навыки
-
-- **Технологии**: HTML, CSS, SCSS, Tailwind, JavaScript, Node.js, PostgreSQL, Drizzle, Express, TypeScript, React, Vue 3, Nuxt 3, NuxtUI, Webpack, Vite, Git.
-- **Методологии**: Graceful Degradation, CDD, BEM
-- **Дополнительно**: Адаптивная верстка, оптимизация производительности, взаимодействие с backend API, BFF
-
 ## 📚 Дополнительная информация
 
 - Отличные коммуникативные навыки и опыт работы в команде.
